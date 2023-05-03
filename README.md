@@ -1,5 +1,12 @@
-### Hi there 👋
+### Hello
+My name's Reverb (or Revermb),
 
+I am an IT and Networking student at kOsh Collegestraat.
+overall I mainly code in C# but during my time at school I've also learned HTML (+ bootstrap), C (Arduino) and CSS.
+
+I'm from Belgium 🇧🇪 and I'm fluent in both Dutch and English.
+
+Despite everything I am still learning so please be patient with me.
 <!--
 **Revermb/Revermb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
