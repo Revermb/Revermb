@@ -3,10 +3,12 @@ My name's Reverb (or Revermb),
 
 I am an IT and Networking student at <a href=https://kosh.be>kOsh Collegestraat.</a>
 overall I mainly code in C# but during my time at school I've also learned:
+Skills:
 <ul>
   <li>HTML (+ bootstrap)</li>
   <li>C (Arduino)</li>
   <li>CSS</li>
+  <li>C#</li>
 </ul>
 <hr/>
 I'm from Belgium 🇧🇪 and I'm fluent in both Dutch and English.
