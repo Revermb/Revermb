@@ -1,5 +1,5 @@
 ### Hello and welcome
-My name's Reverb (or Revermb),
+My name's Reverb (or Revermb depends on if Reverb is taken or not),
 
 I am an IT and Networking student at <a href=https://kosh.be>kOsh Collegestraat.</a>
 overall I mainly code in C# and during my time at school I've learned:
