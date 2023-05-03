@@ -7,6 +7,11 @@ overall I mainly code in C# but during my time at school I've also learned HTML 
 I'm from Belgium 🇧🇪 and I'm fluent in both Dutch and English.
 
 Despite everything I am still learning so please be patient with me.
+
+My linkedIn: https://www.linkedin.com/in/remi-vermeer-a15b28254/
+My Instagram: https://www.instagram.com/revermbed/
+My W3school: https://www.w3profile.com/Reverb
+
 <!--
 **Revermb/Revermb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
