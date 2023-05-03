@@ -1,4 +1,4 @@
-### Hello an welcome
+### Hello and welcome
 My name's Reverb (or Revermb),
 
 I am an IT and Networking student at kOsh Collegestraat.
