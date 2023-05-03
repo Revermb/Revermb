@@ -1,5 +1,5 @@
 ### Hello and welcome
-My name's Reverb (or Revermb depends on if Reverb is taken or not),
+My name's Reverb (or Revermb),
 
 I am an IT and Networking student at <a href=https://kosh.be>kOsh Collegestraat.</a>
 overall I mainly code in C# and during my time at school I've learned:
@@ -17,6 +17,12 @@ Despite everything I am still learning so please be patient with me.
 <a href=https://www.linkedin.com/in/remi-vermeer-a15b28254>My linkedIn</a><br/>
 <a href=https://www.instagram.com/revermbed>My Instagram</a><br/>
 <a href=https://www.w3profile.com/Reverb>My W3school</a>
+<hr/>
+<h1>FAQ</h1>
+<ul>
+  <li>Q: Why is your name sometimes Reverb and other times Revermb (or variation)?</li>
+  <li>A: I mainly prefer to use Reverb, but if the username is taken I usually go for Revermb</li>
+</ul>
 <!--
 **Revermb/Revermb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
