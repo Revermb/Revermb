@@ -19,10 +19,12 @@ Despite everything I am still learning so please be patient with me.
 <a href=https://www.w3profile.com/Reverb>My W3school</a>
 <hr/>
 <h1>FAQ</h1>
+<!-- 
 <ul>
   <li>Q: Why is your name sometimes Reverb and other times Revermb (or variation)?</li>
   <li>A: I mainly prefer to use Revermb, but if the username is taken I usually go for Revermbt/Reverb</li>
 </ul>
+-->
 <!--
 **Revermb/Revermb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
