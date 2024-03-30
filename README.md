@@ -19,6 +19,9 @@ Despite everything I am still learning so please be patient with me.
 <a href=https://www.w3profile.com/Reverb>My W3school</a>
 <hr/>
 <h1>FAQ</h1>
+<ul>
+  <li><a href="https://docs.google.com/document/d/1-x8bfNNItTUwhHFxto8Gi3ZDLbClrIROhk2GliIIZdQ/edit?usp=sharing">Guide to Privacy</a></li>
+</ul>
 <!-- 
 <ul>
   <li>Q: Why is your name sometimes Reverb and other times Revermb (or variation)?</li>
