@@ -21,6 +21,7 @@ Despite everything I am still learning so please be patient with me.
 <h1>FAQ</h1>
 <ul>
   <li><a href="https://docs.google.com/document/d/1-x8bfNNItTUwhHFxto8Gi3ZDLbClrIROhk2GliIIZdQ/edit?usp=sharing">Guide to Privacy</a></li>
+  <li><a href="https://revermb.github.io/Webpages/FAQ.html">FAQ</a></li>
 </ul>
 <!-- 
 <ul>
