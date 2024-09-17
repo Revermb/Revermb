@@ -1,7 +1,7 @@
 ### Hello and welcome
 My name's Reverb (or Revermb),
 
-I am an IT and Networking student at <a href=https://kosh.be>kOsh Collegestraat.</a>
+I am an IT and Networking student at <a href=https://thomasmore.be/en>Thomas More Geel.</a>
 overall I mainly code in C# and during my time at school I've learned:
 <ul>
   <li>HTML (+ bootstrap)</li>
