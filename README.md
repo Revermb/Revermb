@@ -8,6 +8,7 @@ overall I mainly code in C# and during my time at school I've learned:
   <li>C (Arduino)</li>
   <li>CSS</li>
   <li>C#</li>
+  <li>Python</li>
 </ul>
 <hr/>
 I'm from Belgium 🇧🇪 and I'm fluent in both Dutch and English.
